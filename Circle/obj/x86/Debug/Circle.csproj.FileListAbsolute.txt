@@ -1,0 +1,4 @@
+D:\day3\Circle\Circle\bin\Debug\Circle.exe
+D:\day3\Circle\Circle\bin\Debug\Circle.pdb
+D:\day3\Circle\Circle\obj\x86\Debug\Circle.exe
+D:\day3\Circle\Circle\obj\x86\Debug\Circle.pdb
